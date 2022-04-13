@@ -1,0 +1,2 @@
+# POCAWSSNS
+POC: Send SMS by AWS SNS with Go
